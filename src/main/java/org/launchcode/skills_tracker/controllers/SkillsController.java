@@ -98,5 +98,6 @@ public class SkillsController {
                 "</table>" +
                 "</body>" +
                 "</html>";
+
     }
 }
